@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on `Flutter Installer` 🚀💙
+- 🌱 I’m currently learning Android Kotlin and Swift UI
+- 👯 I’m looking to collaborate on a Flutter Open-Source project! ✌😁
+- 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
+- 💬 Ask me about Flutter and I will answer eagerly! 😎
+- 📫 How to reach me: [Github](https://github.com/YazeedAlKhalaf), [Twitter](https://twitter.com/YazeedAlKhalaf), [Linkedin](https://www.linkedin.com/in/YazeedAlKhalaf/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm The Youngest Participant In Hajj Hackathon, The World's Largest Hackathon In Terms Of Prizes and People!
+
 <!--
 **YazeedAlKhalaf/YazeedAlKhalaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
