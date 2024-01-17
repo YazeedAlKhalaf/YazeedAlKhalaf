@@ -1,5 +1,3 @@
-![Yazeed AlKhalaf](https://yazeed.alkhalaf.dev/images/me-grey.jpg)
-
 ## Yazeed AlKhalaf
 i write code 🔥
 
