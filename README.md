@@ -1,30 +1,48 @@
-### Hi there 👋
+<code>
 
-- 🔭 I’m currently working on `Flutter Installer` 🚀💙
-- 🌱 I’m currently learning Android Kotlin and Swift UI
-- 👯 I’m looking to collaborate on a Flutter Open-Source project! ✌😁
-- 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
-- 💬 Ask me about Flutter and I will answer eagerly! 😎
-- 📫 How to reach me: [Github](https://github.com/YazeedAlKhalaf), [Twitter](https://twitter.com/YazeedAlKhalaf), [Linkedin](https://www.linkedin.com/in/YazeedAlKhalaf/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm The Youngest Participant In Hajj Hackathon, The World's Largest Hackathon In Terms Of Prizes and People!
+<p align="center">
+  <img src="https://yazeed.alkhalaf.dev/images/me-grey.jpg" alt="Yazeed AlKhalaf" width="200px" height="200px" style="border-radius: 50%;" />
+</p>
 
-### Languages & Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<h3 align="center">Yazeed AlKhalaf</h3>
+<p align="center">i write code 🔥</p>
 
 
-[![Yazeed's github stats](https://github-readme-stats.vercel.app/api?username=yazeedalkhalaf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+<p align="center">
+  <!-- GitHub Badge -->
+  <a href="https://github.com/YazeedAlKhalaf" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-313131?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" style="border-radius: 8px;" />
+  </a>
+  <!-- Twitter Badge -->
+  <a href="https://twitter.com/yazeedalkhalaf" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-313131?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" style="border-radius: 8px;" />
+  </a>
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/yazeedalkhalaf/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-313131?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 8px;" />
+  </a>
+</p>
 
-[![HitCount](http://hits.dwyl.com/YazeedAlKhalaf/YazeedAlKhalaf.svg)](http://hits.dwyl.com/YazeedAlKhalaf/YazeedAlKhalaf)
+---
 
-### Follow me:
+<p align="center">
+  📘 I built <b><a href="https://github.com/YazeedAlKhalaf/alyamamah" target="_blank" style="color: #3C82F6">Al Yamamah app</a></b> for my university students, and <b><a href="https://github.com/YazeedAlKhalaf/Flutter_Installer" target="_blank" style="color: #3C82F6">Flutter Installer GUI</a></b>.
+</p>
 
-<a href="https://www.linkedin.com/in/YazeedAlKhalaf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/YazeedAlKhalaf" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.twitter.com/YazeedAlKhalaf" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<p align="center">
+  💼 I work at <b><a href="https://tweeq.sa/" target="_blank" style="color: #3C82F6">Tweeq International Company</a></b> as a Software Developer since 2021.
+</p>
+
+<p align="center">
+  🎓 I study at <b><a href="https://yu.edu.sa/" target="_blank" style="color: #3C82F6">Al Yamamah University</a></b> as a Software Engineering Student since 2022.
+</p>
+
+---
+
+<p align="center">
+  <a href="https://yazeed.alkhalaf.dev/files/resume.pdf" target="_blank" style="color: #3C82F6;">
+    <b>📄 See my Résumé 📄</b>
+  </a>
+</p>
+
+</code>
